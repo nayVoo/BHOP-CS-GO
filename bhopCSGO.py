@@ -2,7 +2,7 @@ import pymem
 from pymem import process
 import keyboard
 import time
-#OFFSETS (REMEMBER, THIS MAY NOT WORK BECAUSE EVERY UPDATE OFFSETS CHANGES AND U GET BAN)
+#OFFSETS (REMEMBER, THIS MAY NOT WORK BECAUSE EVERY UPDATE OFFSETS CHANGES AND U CAN GET BAN IF U USE OLD OFFSETS)
 dwLocalPlayer = (0xDEA964) #-->dwLocalPlayer offset 
 dwForceJump = (0x52BBC7C) #-->dwForceJump offset
 m_fFlags = (0x104) #--> m_fFlags offset
